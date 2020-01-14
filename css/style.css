@@ -1,0 +1,15 @@
+ul li{
+    list-style: none;
+    padding: 6px;
+    
+}
+
+ul{
+    padding: 0;
+    margin-left: 20px;
+    
+}
+i{
+    margin-right: 10px;
+    font-size: 13px;
+}
